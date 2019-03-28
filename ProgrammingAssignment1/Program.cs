@@ -2,6 +2,9 @@
 
 namespace ProgrammingAssignment1
 {
+    /// <summary>
+    /// A program that calculates the distance of two points and the arctangent
+    /// </summary>
     internal class Program
     {
         public static void Main(string[] args)
