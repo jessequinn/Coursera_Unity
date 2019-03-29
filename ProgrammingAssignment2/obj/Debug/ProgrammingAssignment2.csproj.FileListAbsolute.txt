@@ -1,0 +1,13 @@
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.exe.config
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.exe
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.pdb
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.exe
+c:/users/albert/documents/visual studio 2017/Projects/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.pdb
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.exe.config
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.exe
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/bin/Debug/ProgrammingAssignment2.pdb
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.csprojAssemblyReference.cache
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.exe
+/home/jessequinn/RiderProjects/ProgrammingAssignments/ProgrammingAssignment2/obj/Debug/ProgrammingAssignment2.pdb
