@@ -1,0 +1,14 @@
+C:/Users/Albert/Documents/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+C:/Users/Albert/Documents/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+C:/Users/Albert/Documents/Exercise1/Exercise1/bin/Debug/ConsoleCards.dll
+C:/Users/Albert/Documents/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csprojResolveAssemblyReference.cache
+C:/Users/Albert/Documents/Exercise1/Exercise1/obj/x86/Debug/Exercise1.exe
+C:/Users/Albert/Documents/Exercise1/Exercise1/obj/x86/Debug/Exercise1.pdb
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/bin/Debug/ConsoleCards.dll
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csprojAssemblyReference.cache
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csproj.CopyComplete
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/obj/x86/Debug/Exercise1.exe
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise1/Exercise1/obj/x86/Debug/Exercise1.pdb

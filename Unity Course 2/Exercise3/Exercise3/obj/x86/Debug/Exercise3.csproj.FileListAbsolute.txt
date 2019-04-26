@@ -1,0 +1,4 @@
+C:\Users\Albert\Documents\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Albert\Documents\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Albert\Documents\Exercise3\Exercise3\obj\x86\Debug\Exercise3.exe
+C:\Users\Albert\Documents\Exercise3\Exercise3\obj\x86\Debug\Exercise3.pdb

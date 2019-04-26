@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Exercise2\Exercise2\obj\x86\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Albert\Documents\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Albert\Documents\Exercise2\Exercise2\bin\Debug\ConsoleCards.dll
+C:\Users\Albert\Documents\Exercise2\Exercise2\obj\x86\Debug\Exercise2.exe
+C:\Users\Albert\Documents\Exercise2\Exercise2\obj\x86\Debug\Exercise2.pdb

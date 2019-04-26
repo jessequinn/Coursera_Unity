@@ -1,0 +1,6 @@
+C:\Users\Albert\Documents\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Albert\Documents\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Albert\Documents\Exercise4\Exercise4\bin\Debug\ConsoleCards.dll
+C:\Users\Albert\Documents\Exercise4\Exercise4\obj\x86\Debug\Exercise4.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Exercise4\Exercise4\obj\x86\Debug\Exercise4.exe
+C:\Users\Albert\Documents\Exercise4\Exercise4\obj\x86\Debug\Exercise4.pdb

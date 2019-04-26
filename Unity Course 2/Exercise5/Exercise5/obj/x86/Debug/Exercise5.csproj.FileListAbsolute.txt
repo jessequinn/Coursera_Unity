@@ -1,0 +1,10 @@
+C:/Users/Albert/Documents/Exercise5/Exercise5/bin/Debug/Exercise5.exe
+C:/Users/Albert/Documents/Exercise5/Exercise5/bin/Debug/Exercise5.pdb
+C:/Users/Albert/Documents/Exercise5/Exercise5/obj/x86/Debug/Exercise5.exe
+C:/Users/Albert/Documents/Exercise5/Exercise5/obj/x86/Debug/Exercise5.pdb
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/bin/Debug/Exercise5.exe
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/bin/Debug/Exercise5.pdb
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/obj/x86/Debug/Exercise5.csprojAssemblyReference.cache
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/obj/x86/Debug/Exercise5.csproj.CoreCompileInputs.cache
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/obj/x86/Debug/Exercise5.exe
+/home/jessequinn/RiderProjects/Unity_Course_2/Exercise5/Exercise5/obj/x86/Debug/Exercise5.pdb

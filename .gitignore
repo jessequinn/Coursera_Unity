@@ -1,4 +1,8 @@
 .idea
 node_modules
 *.zip
-
+*.pdf
+Build
+bin
+Library
+Temp
